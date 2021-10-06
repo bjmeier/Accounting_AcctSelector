@@ -1,0 +1,51 @@
+Desc,Type,Code,odooAcctNo,Parent,cCode,eCode,parentCode
+Leasehold Improvements,Non-current Assets,2000,15200,,2,,
+Leasehold Improvements - MOR,Non-current Assets,2100,15201,15200,2,100,2000
+Leasehold Improvements - NBR,Non-current Assets,2200,15202,15200,2,200,2000
+Leasehold Improvements - VEL,Non-current Assets,2300,15203,15200,2,300,2000
+Leasehold Improvements - MOR_SM_CUT,Non-current Assets,2111,15204,15200,2,111,2000
+Leasehold Improvements - VELoffice,Non-current Assets,2390,15205,15200,2,390,2000
+Leasehold Improvements - Warehouse,Non-current Assets,2980,15206,15200,2,980,2000
+Equipment,Non-current Assets,3000,15300,,3,,
+Equipment - SM,Non-current Assets,3110,15301,15300,3,110,3000
+Equipment - MOR_SM_CUT,Non-current Assets,3111,15302,15300,3,111,3000
+Equipment - MOR_SM_OTH,Non-current Assets,3112,15303,15300,3,112,3000
+Equipment - MOR_SM_TUB,Non-current Assets,3113,15304,15300,3,113,3000
+Equipment - VEL_AS_ASY,Non-current Assets,3311,15305,15300,3,311,3000
+Equipment - VEL_AL_ALU,Non-current Assets,3321,15306,15300,3,321,3000
+Equipment - AL_AS,Non-current Assets,3370,15307,15300,3,370,3000
+Equipment - MOR,Non-current Assets,3100,15308,15300,3,100,3000
+Equipment - NBR,Non-current Assets,3200,15309,15300,3,200,3000
+Equipment - VEL,Non-current Assets,3300,15310,15300,3,300,3000
+Equipment - MORwh,Non-current Assets,3180,15311,15300,3,180,3000
+Equipment - NBRwh,Non-current Assets,3280,15312,15300,3,280,3000
+Equipment - VELwh,Non-current Assets,3380,15313,15300,3,380,3000
+Equipment - MORoffice,Non-current Assets,3190,15314,15300,3,190,3000
+Equipment - NBRoffice,Non-current Assets,3290,15315,15300,3,290,3000
+Equipment - VELoffice,Non-current Assets,3390,15316,15300,3,390,3000
+Equipment - Warehouse,Non-current Assets,3980,15317,15300,3,980,3000
+Equipment - Sales,Non-current Assets,3901,15318,15300,3,901,3000
+Equipment - Operations,Non-current Assets,3902,15319,15300,3,902,3000
+Equipment - Engineering,Non-current Assets,3904,15320,15300,3,904,3000
+Equipment - Quality,Non-current Assets,3905,15321,15300,3,905,3000
+Equipment - IT,Non-current Assets,3906,15322,15300,3,906,3000
+Equipment - RandD,Non-current Assets,3949,15323,15300,3,949,3000
+Manufacturing Tooling,Non-current Assets,4000,15400,,4,,
+Manufacturing Tooling - SM,Non-current Assets,4110,15401,15400,4,110,4000
+Manufacturing Tooling - MOR_SM_CUT,Non-current Assets,4111,15402,15400,4,111,4000
+Manufacturing Tooling - MOR_SM_OTH,Non-current Assets,4112,15403,15400,4,112,4000
+Manufacturing Tooling - MOR_SM_TUB,Non-current Assets,4113,15404,15400,4,113,4000
+Manufacturing Tooling - VEL_AS_ASY,Non-current Assets,4311,15405,15400,4,311,4000
+Manufacturing Tooling - VEL_AL_ALU,Non-current Assets,4321,15406,15400,4,321,4000
+Manufacturing Tooling - AL_AS,Non-current Assets,4370,15407,15400,4,370,4000
+Manufacturing Tooling - Molds,Non-current Assets,4401,15408,15400,4,401,4000
+Computers and Software,Non-current Assets,5000,15500,,5,,
+Computers and Software - IT,Non-current Assets,5906,15501,15500,5,906,5000
+Furniture and Fixtures,Non-current Assets,6000,15600,,6,,
+Furniture and Fixtures - MOR,Non-current Assets,6100,15601,15600,6,100,6000
+Furniture and Fixtures - NBR,Non-current Assets,6200,15602,15600,6,200,6000
+Furniture and Fixtures - VEL,Non-current Assets,6300,15603,15600,6,300,6000
+Furniture and Fixtures - MORoffice,Non-current Assets,6190,15604,15600,6,190,6000
+Furniture and Fixtures - NBRoffice,Non-current Assets,6290,15605,15600,6,290,6000
+Furniture and Fixtures - VELoffice,Non-current Assets,6390,15606,15600,6,390,6000
+Furniture and Fixtures - RCPsga,Non-current Assets,6900,15607,15600,6,900,6000

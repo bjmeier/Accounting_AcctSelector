@@ -1,0 +1,91 @@
+,GLAcctNo,GLAcctKey,Description,Total,Code,cDesc
+0,520050000,854,Fixed Cap Abs,"350,000",-10,IntMoves
+1,599010000,406,Misc Adj COGS,"70,920",-10,IntMoves
+2,999980000,834,Mfg Variance,0,-10,IntMoves
+3,513700000,832,Abs-Fixed Setup,"-5,970",-10,IntMoves
+4,513800000,833,Abs- Var Setup,"-33,759",-10,IntMoves
+5,513500000,830,Abs-Fixed Run,"-84,783",-10,IntMoves
+6,745150000,857,COS Fix Cap Abs,"-350,000",-10,IntMoves
+7,513000000,430,Assembly-Labor Abs,"-381,216",-10,IntMoves
+8,513600000,831,Abs-Var Run,"-441,143",-10,IntMoves
+9,722000000,343,"City School Tax, Moravia Bldg","7,875",-5,IncludedInTaxSection
+10,722100000,923,School Tax - New Butler Road,"7,350",-5,IncludedInTaxSection
+11,721000000,342,"City Tax, Moravia Building","6,825",-5,IncludedInTaxSection
+12,723100000,924,County Tax - New Butler Road,"4,900",-5,IncludedInTaxSection
+13,723000000,344,"County Tax, Moravia Bldg","4,200",-5,IncludedInTaxSection
+14,722200000,986,"School Tax, 1902 New Butler","3,850",-5,IncludedInTaxSection
+15,723200000,987,"County Tax, 1902 New Butler","2,625",-5,IncludedInTaxSection
+16,721100000,922,Town Tax - New Butler Road,"1,925",-5,IncludedInTaxSection
+17,720040000,341,"City, Mercantile Tax","1,166",-5,IncludedInTaxSection
+18,721200000,985,"Town Tax, 1902 New Butler","1,050",-5,IncludedInTaxSection
+19,505500000,278,COGS-Service Fee - JD,"50,774",-2,ContraRevenue
+20,505510000,983,COGS-Service Fee - Yanmar,"36,453",-2,ContraRevenue
+21,724000000,345,PA Sales Tax,"2,505",-2,ContraRevenue
+22,500000000,261,Rads - Copper Brass-COGS,"4,114,805",-1,Product
+23,500400000,267,Bracket Kits-COGS,"555,570",-1,Product
+24,575020000,283,"Freight In, Ocean","411,455",-1,Product
+25,500300000,266,Accessories-COGS,"281,746",-1,Product
+26,500600000,269,Molded Hose-COGS,"224,428",-1,Product
+27,500500000,268,Tanks-COGS,"195,930",-1,Product
+28,500030000,418,Enclosures - COGS,"130,077",-1,Product
+29,500250000,265,CAC Pipes-COGS,"113,235",-1,Product
+30,500200000,264,Oil Coolers-COGS,"64,589",-1,Product
+31,575000000,281,Freight In - COGS,"28,876",-1,Product
+32,500100000,263,CAC-COGS,"26,130",-1,Product
+33,511000000,396,Purchase Price Variance,"9,975",-1,Product
+34,500900000,272,Hardware-COGS,"9,226",-1,Product
+35,500800000,271,Spooled Hose-COGS,"8,407",-1,Product
+36,999990000,382,Temporary Account,0,-1,Product
+37,500010000,417,Rads - Aluminium - COGS,"-6,324",-1,Product
+38,520000000,449,Freight Absorption,"-482,712",-1,Product
+39,745100000,350,"Lease, Building","119,000",0,RCPall
+40,780030000,370,"Utilities, Electric","62,640",0,RCPall
+41,745000000,349,Rent or Lease Expense,"25,325",0,RCPall
+42,780040000,372,"Utilities, Gas","14,807",0,RCPall
+43,750000000,352,Repairs Expense,"11,577",0,RCPall
+44,780020000,369,"Utilities, Water","10,017",0,RCPall
+45,780050000,373,"Utilities, Sanitation","3,624",0,RCPall
+46,712500000,337,Miscellaneous Expense,"2,061",0,RCPall
+47,745200000,351,"Rental, Mats","1,454",0,RCPall
+48,691000000,329,Lawn Care & Snow Removal,"1,040",0,RCPall
+49,780100000,374,Security System,676,0,RCPall
+50,745400000,847,Operating Leasehold Improvements,0,0,RCPall
+51,730000000,347,Other Taxes,-125,0,RCPall
+52,570000000,280,COGS-Salary - Mfg,"483,957",2,ManEmployee
+53,570010000,998,COS Salary - Assembly,"205,777",2,ManEmployee
+54,571250000,875,CGS Bene Health,"85,394",2,ManEmployee
+55,504600000,276,Labor - COGS,"79,196",2,ManEmployee
+56,571000000,837,COGS-Payroll Taxes,"60,702",2,ManEmployee
+57,571500000,852,COGS Benefits,"18,982",2,ManEmployee
+58,504500000,274,Tooling - COGS,"16,690",3,ExpTooling
+59,504650000,896,Manuf Gas - COGS,"43,969",4,ExpGas
+60,504700000,898,Manf Repairs CGS,"7,710",5,ExpRepair
+61,505000000,277,Supplies - COS,"84,395",6,ExpSupplies
+62,775000000,366,Wages Expense,"658,484",900,RCPsga
+63,775004000,855,Wages Exp-Engineering,"327,891",900,RCPsga
+64,775001000,685,Wages Exp-Sales,"136,869",900,RCPsga
+65,690010000,328,Accountant Fees,"55,840",900,RCPsga
+66,720000000,339,Payroll Tax Expense,"54,336",900,RCPsga
+67,706000000,333,"Maintenance, Software","38,870",900,RCPsga
+68,780010000,368,Telephone Expense,"38,010",900,RCPsga
+69,751000000,353,Research & Development,"30,864",900,RCPsga
+70,720004000,664,Payroll Tax Exp-Engineering,"27,574",900,RCPsga
+71,755000000,354,Travel,"17,482",900,RCPsga
+72,765000000,364,Office Supplies,"15,813",900,RCPsga
+73,715000000,338,Office Expense,"14,761",900,RCPsga
+74,720001000,661,Payroll Tax Exp-Sales,"11,458",900,RCPsga
+75,710000000,334,Meals & Entertainment Expense,"9,782",900,RCPsga
+76,760100000,357,Subcontractor - Cleaning,"9,765",900,RCPsga
+77,705000000,332,Maintenance Expense,"7,032",900,RCPsga
+78,745350000,912,Management Fee Exp,"7,000",900,RCPsga
+79,740000000,348,Postage Expense,"1,659",900,RCPsga
+80,796000000,377,Warranty on Equipment,"1,600",900,RCPsga
+81,690000000,327,Legal & Professional Expense,564,900,RCPsga
+82,755001000,669,Travel-Sales,"1,255",910,Sales
+83,710001000,645,Meals & Ent Exp-Sales,747,910,Sales
+84,690050000,874,ISO Cert Main & Quality,"9,453",930,Quality
+85,751004000,749,R & D-Engineering,0,949,RandD
+86,790000000,375,Warehouse Supplies,"71,641",980,Warehouse
+87,795000000,376,Warehouse Expense,"18,513",980,Warehouse
+88,745300000,455,Ware Trk Lease,"12,435",980,Warehouse
+89,795100000,820,Warehouse Gas,"4,131",980,Warehouse

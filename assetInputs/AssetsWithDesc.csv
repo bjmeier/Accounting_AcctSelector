@@ -1,0 +1,374 @@
+AssetID,Desc,DeprYTD,cCode,cDesc,eCode,eDesc,odooAssetAcctNo,assetAcctDesc,odooExpAcctNo,expAcctDesc
+284,Lighting - New Bldg.,0.0,2,Leasehold Improvements,0,RCPall,15200,Leasehold Improvements,61900,ALL
+285,Electrical Wiring New Lighting,0.0,2,Leasehold Improvements,0,RCPall,15200,Leasehold Improvements,61900,ALL
+316,Offices - Lighting Wiring - Labor,0.0,2,Leasehold Improvements,0,RCPall,15200,Leasehold Improvements,61900,ALL
+317,Offices - Walls Lumber - Labor,0.0,2,Leasehold Improvements,0,RCPall,15200,Leasehold Improvements,61900,ALL
+318,Garage Door & Install,0.0,2,Leasehold Improvements,0,RCPall,15200,Leasehold Improvements,61900,ALL
+319,Electrical Wiring New Lighting,0.0,2,Leasehold Improvements,0,RCPall,15200,Leasehold Improvements,61900,ALL
+320,Security System New Butler,0.0,2,Leasehold Improvements,0,RCPall,15200,Leasehold Improvements,61900,ALL
+321,Lighting New Offices,0.0,2,Leasehold Improvements,0,RCPall,15200,Leasehold Improvements,61900,ALL
+322,Electrical Panals New Building,0.0,2,Leasehold Improvements,0,RCPall,15200,Leasehold Improvements,61900,ALL
+323,14 Lighting,0.0,2,Leasehold Improvements,0,RCPall,15200,Leasehold Improvements,61900,ALL
+324,Office Renovations,0.0,2,Leasehold Improvements,0,RCPall,15200,Leasehold Improvements,61900,ALL
+370,"Wiring for lighting, data, & power in new office",0.0,2,Leasehold Improvements,0,RCPall,15200,Leasehold Improvements,61900,ALL
+375,Wiring of Data and Phone Lines,0.0,2,Leasehold Improvements,0,RCPall,15200,Leasehold Improvements,61900,ALL
+376,Final Electrical work,0.0,2,Leasehold Improvements,0,RCPall,15200,Leasehold Improvements,61900,ALL
+436,Dock Repairs - Moravia,0.0,2,Leasehold Improvements,0,RCPall,15200,Leasehold Improvements,61900,ALL
+503,Tank Pads - Moravia - for bulk holding tanks for gas,1414.93,2,Leasehold Improvements,111,MOR_SM_CUT,15204,Leasehold Improvements - MOR_SM_CUT,50111,MOR_SM_CUT
+511,"6"" high Chainlink fence around gas tanks - Moravia",264.58,2,Leasehold Improvements,111,MOR_SM_CUT,15204,Leasehold Improvements - MOR_SM_CUT,50111,MOR_SM_CUT
+506,Additional Prep work around Tank pads for gas tanks,253.52,2,Leasehold Improvements,111,MOR_SM_CUT,15204,Leasehold Improvements - MOR_SM_CUT,50111,MOR_SM_CUT
+155,Modular Office,0.0,2,Leasehold Improvements,190,MORoffice,15200,Leasehold Improvements,79190,MORoffice
+156,Modular Office,0.0,2,Leasehold Improvements,190,MORoffice,15200,Leasehold Improvements,79190,MORoffice
+374,Office Renovations  Mar & Apr,8869.81,2,Leasehold Improvements,200,NBR,15202,Leasehold Improvements - NBR,61200,NBR
+541,Highway Connector & Parking Lot Drainage- New Butler,844.46,2,Leasehold Improvements,200,NBR,15202,Leasehold Improvements - NBR,61200,NBR
+371,Duct Work,1822.92,2,Leasehold Improvements,200,NBR,15202,Leasehold Improvements - NBR,61200,NBR
+372,General Wiring Offices,1305.31,2,Leasehold Improvements,200,NBR,15202,Leasehold Improvements - NBR,61200,NBR
+368,Heating & Air Conditioning,1337.89,2,Leasehold Improvements,200,NBR,15202,Leasehold Improvements - NBR,61200,NBR
+643,Exterior Lighting - 1900 New Butler,384.23,2,Leasehold Improvements,200,NBR,15202,Leasehold Improvements - NBR,61200,NBR
+373,Office Front Glass Work,460.73,2,Leasehold Improvements,200,NBR,15202,Leasehold Improvements - NBR,61200,NBR
+567,"Kitchen, Bathrooms & Hallways - 1902 New Butler",4617.77,2,Leasehold Improvements,300,VEL,15203,Leasehold Improvements - VEL,61300,VEL
+369,Office Renovation & Roof Replacement Jan & Feb,5855.24,2,Leasehold Improvements,300,VEL,15203,Leasehold Improvements - VEL,61300,VEL
+563,Equipment Hook up with Conduit to Breaker boxes - 1902 NB,1039.28,2,Leasehold Improvements,300,VEL,15203,Leasehold Improvements - VEL,61300,VEL
+641,Relocation of Mfg Cranes to 1902 New Butler,716.21,2,Leasehold Improvements,300,VEL,15203,Leasehold Improvements - VEL,61300,VEL
+560,Internal Wiring - 1902 New Butler,622.87,2,Leasehold Improvements,300,VEL,15203,Leasehold Improvements - VEL,61300,VEL
+562,Breaker Box Rewiring - 1902 New Butler,147.43,2,Leasehold Improvements,300,VEL,15203,Leasehold Improvements - VEL,61300,VEL
+642,Sprinkler System - 1902 New Butler,76.06,2,Leasehold Improvements,300,VEL,15203,Leasehold Improvements - VEL,61300,VEL
+377,Final Office renovations June,2688.33,2,Leasehold Improvements,390,VELoffice,15205,Leasehold Improvements - VELoffice,79390,VELoffic
+283,Catch Basin & Dock Apron,597.61,2,Leasehold Improvements,980,Warehouse,15206,Leasehold Improvements - Warehouse,79900,
+57,Forklift,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+62,Warehouse Tools,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+64,Color Plates Wide,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+65,Color Plate Wide,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+66,Shrinkwrap Machine,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+67,Forklift Attachment,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+68,Warehouse Shelving,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+69,Band Saw,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+70,Warehouse Tools,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+71,Test Plug Equipment,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+72,Refrigerator / Grille / Sander / Wet Vac,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+73,Radiator Test Equipment,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+74,Air Compressor,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+76,Test Tank Equipment,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+77,Load Binders,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+79,Nissan Forklift,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+80,Equipment,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+81,HVAC for modular office,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+83,Platforms,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+84,Crane with Hoist Trolley,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+87,Forklift,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+88,Stretch Wrap Machine,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+89,Instapak Machine,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+90,Nissan CF40LP Forklift,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+92,Scale & Zebra Printer,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+93,TIG Welder & Accessories,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+94,Nissan CF40LP Forklift,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+95,Chain Link Fence - Outside,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+96,Pallet Pal w/ Rotator Top,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+97,Air Compressor,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+98,Time Clock-Hand Punch,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+99,Slear,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+100,Punch,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+101,Press Break,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+102,Press Break 2,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+103,Heager Press 1,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+104,Collap Bins,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+106,Pallet Stands,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+107,Workstation Crane,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+108,Assembly Area,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+110,Nelson Wire Mesh Baskets,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+112,Racks,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+114,Hoppers,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+184,Lathe - Used,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+185,Milling Machine - Used,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+186,Rolling Band Saw - Used,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+191,"Ladder, Forklift Gate, Stands - Used",0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+194,Haeger Insertion Press Break #2,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+195,Speedy Packer Bench Style Model,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+196,Trumpf SZ1 Thread Form,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+198,Forklift - for Rolled Steel,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+199,Exhaust Hood Welder Table,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+200,60- Collapsible Bins,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+201,Weld Screen,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+202,Welder - Mfg,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+216,Trumpf 2510  Laser - Used,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+219,Off load laser w/ crane,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+221,7 Gauge Dump Hopper,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+222,Steel Racking - Steel Sheets,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+223,Press Brake,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+224,25 Plastic Black Bins,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+227,Welder - Valley Industrial Gases,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+229,40 Plastic Black Bins,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+274,Isgus Time Clock - New Bldg,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+298,Phone System,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+299,Deluxe Cylinder Dolly,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+300,Floor Scrubber,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+301,75 Bulldog Racking,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+302,Stretch Wrapper,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+303,25 Collapsible Containers,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+341,Forklift,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+395,Scissor Lift,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+451,CAC Pipe Racking,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+455,TIG Welder - Moravia,0.0,3,Equipment,0,RCPall,15300,Equipment,61900,ALL
+304,40 Black Bins,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+305,15 Wire Containers,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+306,Granite Engineering Table,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+307,Gorbel Bridge Crane & Hoists,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+308,2 Dump Hoppers,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+309,Shelving - New Building,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+345,Portable Coordinant Measuring,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+396,Leonard Model Tubemaster Flaring & Bending Machine,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+397,MIG Welders,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+398,Flaring tool for tube bender,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+399,crane 1000#cap 15' span - edney,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+400,Moravia - electrical work welding area,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+401,Moravia - electrical work tube bending area,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+402,Crane for Weld Station,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+404,Tube Bending Machine Computer Board,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+406,Hoist for Mfg Crane,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+407,Jib Crane,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+408,Instapak Machine - New Butler Road,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+409,CNC Electrical Wiring,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+410,CNC Milll Magnets x2,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+411,"Wiring of New Lines - CNC Mill #1, Tube Bender & other Machines - Moravia",0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+412,New CNC MILL #2,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+413,40 BLACK BINS,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+414,LATHE - OKUMA GENOS L300,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+415,CNC LATHE Transformer,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+418,"Wiring of CNC Lathe & new CNC Mill #2, & Adjusted Light Assembly Area",0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+421,CNC Lathe - Short Bar Feeder,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+424,Used CNC Machine - Trade Mold Tank 5,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+439,TIG Welder,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+456,TIG Welder - New Butler,0.0,3,Equipment,1,RCPman,15300,Equipment,50110,SM
+485,Oil Pump for Machine Maintenance,250.44,3,Equipment,110,SM,15301,Equipment - SM,50110,SM
+481,Compressor at Moravia,1929.44,3,Equipment,110,SM,15301,Equipment - SM,50110,SM
+499,Tru Laser 2030 Fiber,54755.04,3,Equipment,111,MOR_SM_CUT,15302,Equipment - MOR_SM_CUT,50111,MOR_SM_CUT
+522,TruLaser 3030 Fiber - Upgarde,33535.23,3,Equipment,111,MOR_SM_CUT,15302,Equipment - MOR_SM_CUT,50111,MOR_SM_CUT
+502,TruPunch (S18),30041.31,3,Equipment,111,MOR_SM_CUT,15302,Equipment - MOR_SM_CUT,50111,MOR_SM_CUT
+500,Tru Laser - Liftmaster Shuttle,14901.0,3,Equipment,111,MOR_SM_CUT,15302,Equipment - MOR_SM_CUT,50111,MOR_SM_CUT
+504,TruPunch Sheet Master Compact Basic,9958.69,3,Equipment,111,MOR_SM_CUT,15302,Equipment - MOR_SM_CUT,50111,MOR_SM_CUT
+554,Laser 3030 Kits,2056.96,3,Equipment,111,MOR_SM_CUT,15302,Equipment - MOR_SM_CUT,50111,MOR_SM_CUT
+507,Nitrogen and Oxygen Piping to Laser,963.01,3,Equipment,111,MOR_SM_CUT,15302,Equipment - MOR_SM_CUT,50111,MOR_SM_CUT
+508,Deliver TruPunch,560.0,3,Equipment,111,MOR_SM_CUT,15302,Equipment - MOR_SM_CUT,50111,MOR_SM_CUT
+630,Servometer - 2000 Punch,392.78,3,Equipment,111,MOR_SM_CUT,15302,Equipment - MOR_SM_CUT,50111,MOR_SM_CUT
+501,2 Manifolds 260 Brass High Flow for New Laser,340.8,3,Equipment,111,MOR_SM_CUT,15302,Equipment - MOR_SM_CUT,50111,MOR_SM_CUT
+632,2510 & 3030 Laser Punch Parts,211.43,3,Equipment,111,MOR_SM_CUT,15302,Equipment - MOR_SM_CUT,50111,MOR_SM_CUT
+459,Conveyor for Trumpf Punch,306.19,3,Equipment,111,MOR_SM_CUT,15302,Equipment - MOR_SM_CUT,50111,MOR_SM_CUT
+549,TruBend 5085,22824.24,3,Equipment,112,MOR_SM_OTH,15303,Equipment - MOR_SM_OTH,50112,MOR_SM_OTH
+513,Tu Bend 5085 (B23) SX - Press Breake,22504.52,3,Equipment,112,MOR_SM_OTH,15303,Equipment - MOR_SM_OTH,50112,MOR_SM_OTH
+523,TruBend 7036,13417.5,3,Equipment,112,MOR_SM_OTH,15303,Equipment - MOR_SM_OTH,50112,MOR_SM_OTH
+555,MIG Welder Steel,1049.23,3,Equipment,112,MOR_SM_OTH,15303,Equipment - MOR_SM_OTH,50112,MOR_SM_OTH
+521,Hand Held Plasma Cutter,283.38,3,Equipment,112,MOR_SM_OTH,15303,Equipment - MOR_SM_OTH,50112,MOR_SM_OTH
+426,Bluco Fixture Table for Deutz,326.47,3,Equipment,112,MOR_SM_OTH,15303,Equipment - MOR_SM_OTH,50112,MOR_SM_OTH
+428,H&H Press Head Spot Welder,0.01,3,Equipment,112,MOR_SM_OTH,15303,Equipment - MOR_SM_OTH,50112,MOR_SM_OTH
+438,Large Chiller-Spot Welder,34.29,3,Equipment,112,MOR_SM_OTH,15303,Equipment - MOR_SM_OTH,50112,MOR_SM_OTH
+463,TruBend 7036,13916.11,3,Equipment,112,MOR_SM_OTH,15303,Equipment - MOR_SM_OTH,50112,MOR_SM_OTH
+474,Current Monitor & Pressure Transducer - Weld Nut Machine,21.99,3,Equipment,112,MOR_SM_OTH,15303,Equipment - MOR_SM_OTH,50112,MOR_SM_OTH
+520,Hines Model 300 CNC Tube Bender,13764.23,3,Equipment,113,MOR_SM_TUB,15304,Equipment - MOR_SM_TUB,50113,MOR_SM_TUB
+538,Tube End Finishing Machine,3635.63,3,Equipment,113,MOR_SM_TUB,15304,Equipment - MOR_SM_TUB,50113,MOR_SM_TUB
+539,Rebuld old Tube end Finishing machine,1942.86,3,Equipment,113,MOR_SM_TUB,15304,Equipment - MOR_SM_TUB,50113,MOR_SM_TUB
+531,Pipe Notching Machine,1134.95,3,Equipment,113,MOR_SM_TUB,15304,Equipment - MOR_SM_TUB,50113,MOR_SM_TUB
+556,Metal Cutting Band Saw,182.29,3,Equipment,113,MOR_SM_TUB,15304,Equipment - MOR_SM_TUB,50113,MOR_SM_TUB
+427,"Tube Bender, Expander reducer machine",61.36,3,Equipment,113,MOR_SM_TUB,15304,Equipment - MOR_SM_TUB,50113,MOR_SM_TUB
+464,Tube Bender,4337.45,3,Equipment,113,MOR_SM_TUB,15304,Equipment - MOR_SM_TUB,50113,MOR_SM_TUB
+512,Used Forklift for Raw Material - Moravia,3467.71,3,Equipment,180,MORwh,15311,Equipment - MORwh,79810,
+528,50 black  bins,1192.86,3,Equipment,180,MORwh,15311,Equipment - MORwh,79810,
+534,Steel Racking -Moravia,1033.22,3,Equipment,180,MORwh,15311,Equipment - MORwh,79810,
+544,Steel Racking x25,615.86,3,Equipment,180,MORwh,15311,Equipment - MORwh,79810,
+545,2 Toyota Fork Lifts,6351.14,3,Equipment,280,NBRwh,15312,Equipment - NBRwh,79280,NBRwh
+627,Shelving - 1900 New Butler,3611.47,3,Equipment,280,NBRwh,15312,Equipment - NBRwh,79280,NBRwh
+529,Toyota Small New Butler Lite Assembly,3284.99,3,Equipment,280,NBRwh,15312,Equipment - NBRwh,79280,NBRwh
+530,Toyota Large New Butler Warehouse,3284.99,3,Equipment,280,NBRwh,15312,Equipment - NBRwh,79280,NBRwh
+519,140 Black Bins,3348.29,3,Equipment,280,NBRwh,15312,Equipment - NBRwh,79280,NBRwh
+546,Large Steel Racking x25,1126.69,3,Equipment,280,NBRwh,15312,Equipment - NBRwh,79280,NBRwh
+537,30 Black Bins,728.05,3,Equipment,280,NBRwh,15312,Equipment - NBRwh,79280,NBRwh
+536,25 Wire Containers,724.96,3,Equipment,280,NBRwh,15312,Equipment - NBRwh,79280,NBRwh
+449,Gray Warehouse Reacking - New Butler,287.42,3,Equipment,280,NBRwh,15312,Equipment - NBRwh,79280,NBRwh
+452,Racking - New Butler,222.89,3,Equipment,280,NBRwh,15312,Equipment - NBRwh,79280,NBRwh
+453,Floor Scale - New Butler,388.72,3,Equipment,280,NBRwh,15312,Equipment - NBRwh,79280,NBRwh
+498,40 Manufacturing Carts - New Butler,2002.9,3,Equipment,311,VEL_AS_ASY,15305,Equipment - VEL_AS_ASY,50311,VEL_AS_ASY
+565,Gorbel Free Standing Crane - 1902 New Butler,321.37,3,Equipment,311,VEL_AS_ASY,15305,Equipment - VEL_AS_ASY,50311,VEL_AS_ASY
+535,Bench Scale - New Butler,300.74,3,Equipment,311,VEL_AS_ASY,15305,Equipment - VEL_AS_ASY,50311,VEL_AS_ASY
+557,Torque Tester,157.89,3,Equipment,311,VEL_AS_ASY,15305,Equipment - VEL_AS_ASY,50311,VEL_AS_ASY
+548,Robotic Welder - 1902 New Butler Road,15709.63,3,Equipment,321,VEL_AL_ALU,15306,Equipment - VEL_AL_ALU,50321,VEL_AL_ALU
+547,Robotic Welder - 1902 New Butler Road,15866.73,3,Equipment,321,VEL_AL_ALU,15306,Equipment - VEL_AL_ALU,50321,VEL_AL_ALU
+550,Vertical Machining Center - Genos M560V,11500.0,3,Equipment,321,VEL_AL_ALU,15306,Equipment - VEL_AL_ALU,50321,VEL_AL_ALU
+572,Robot Laser Sensor System,3918.09,3,Equipment,321,VEL_AL_ALU,15306,Equipment - VEL_AL_ALU,50321,VEL_AL_ALU
+553,2 TIG Welders - New Butler,2520.71,3,Equipment,321,VEL_AL_ALU,15306,Equipment - VEL_AL_ALU,50321,VEL_AL_ALU
+631,Robot Harness Wiring,975.75,3,Equipment,321,VEL_AL_ALU,15306,Equipment - VEL_AL_ALU,50321,VEL_AL_ALU
+629,Pneumatic Press,724.29,3,Equipment,321,VEL_AL_ALU,15306,Equipment - VEL_AL_ALU,50321,VEL_AL_ALU
+561,Argon Extensions & Drops Install,400.0,3,Equipment,321,VEL_AL_ALU,15306,Equipment - VEL_AL_ALU,50321,VEL_AL_ALU
+495,Lincoln Welder from Velocity Building,357.14,3,Equipment,321,VEL_AL_ALU,15306,Equipment - VEL_AL_ALU,50321,VEL_AL_ALU
+457,Robotic Welder #2,15158.11,3,Equipment,321,VEL_AL_ALU,15306,Equipment - VEL_AL_ALU,50321,VEL_AL_ALU
+458,Robotic Welder #3,15158.11,3,Equipment,321,VEL_AL_ALU,15306,Equipment - VEL_AL_ALU,50321,VEL_AL_ALU
+460,OKUMA 3000 Lathe,10833.32,3,Equipment,321,VEL_AL_ALU,15306,Equipment - VEL_AL_ALU,50321,VEL_AL_ALU
+461,Fixture for New Robotic Welder,2263.91,3,Equipment,321,VEL_AL_ALU,15306,Equipment - VEL_AL_ALU,50321,VEL_AL_ALU
+552,Compressor - 1902 New Butler,5475.67,3,Equipment,370,AL_AS,15307,Equipment - AL_AS,50370,AL_AS
+628,Leak Test Tank Enclosure 1902 New Butler,1489.75,3,Equipment,370,AL_AS,15307,Equipment - AL_AS,50370,AL_AS
+566,Leak Tank Vertical air Receivers x4,1135.81,3,Equipment,370,AL_AS,15307,Equipment - AL_AS,50370,AL_AS
+638,6 Cylinders Leak Test Tank Auto Project,487.41,3,Equipment,370,AL_AS,15307,Equipment - AL_AS,50370,AL_AS
+551,Steel Hoppers x2,358.66,3,Equipment,380,VELwh,15313,Equipment - VELwh,79380,VELwh
+242,PSI Concrete with Fiber & Rods,0.0,3,Equipment,949,RandD,15300,Equipment,75100,Expenses - R&D
+269,3 Module Triax Accel Diff Out 25g,0.0,3,Equipment,949,RandD,15300,Equipment,75100,Expenses - R&D
+440,Thermal Cycle Testing Imaging Camera,23.87,3,Equipment,949,RandD,15323,Equipment - RandD,75100,Expenses - R&D
+441,Chiller-Thermal Cycle Tester,240.53,3,Equipment,949,RandD,15323,Equipment - RandD,75100,Expenses - R&D
+448,40 Black Bins,264.3,3,Equipment,980,Warehouse,15317,Equipment - Warehouse,79900,
+454,50 Black Bins,1101.18,3,Equipment,980,Warehouse,15317,Equipment - Warehouse,79900,
+510,Punch Tooling - 43 Pieces,1665.61,4,Manufacturing Tooling,111,MOR_SM_CUT,15402,Manufacturing Tooling - MOR_SM_CUT,50111,MOR_SM_CUT
+532,Punch Tooling,884.93,4,Manufacturing Tooling,111,MOR_SM_CUT,15402,Manufacturing Tooling - MOR_SM_CUT,50111,MOR_SM_CUT
+509,Punch Tooling - 16 Pieces,1103.83,4,Manufacturing Tooling,111,MOR_SM_CUT,15402,Manufacturing Tooling - MOR_SM_CUT,50111,MOR_SM_CUT
+524,Punch Tooling - Extrusion Assembly,150.08,4,Manufacturing Tooling,111,MOR_SM_CUT,15402,Manufacturing Tooling - MOR_SM_CUT,50111,MOR_SM_CUT
+640,Punch Tooling,1110.97,4,Manufacturing Tooling,111,MOR_SM_CUT,15402,Manufacturing Tooling - MOR_SM_CUT,50111,MOR_SM_CUT
+514,Press Breake Tooling for New Machine,1440.51,4,Manufacturing Tooling,112,MOR_SM_OTH,15403,Manufacturing Tooling - MOR_SM_OTH,50112,MOR_SM_OTH
+515,Punch and Die for new Press Breake,1348.97,4,Manufacturing Tooling,112,MOR_SM_OTH,15403,Manufacturing Tooling - MOR_SM_OTH,50112,MOR_SM_OTH
+527,Tru Tool - TSC 100,919.57,4,Manufacturing Tooling,112,MOR_SM_OTH,15403,Manufacturing Tooling - MOR_SM_OTH,50112,MOR_SM_OTH
+516,Cabinet for new Press Breake Tooling,469.0,4,Manufacturing Tooling,112,MOR_SM_OTH,15403,Manufacturing Tooling - MOR_SM_OTH,50112,MOR_SM_OTH
+526,Brake Tooling - 1 Punch & 1 Die,844.11,4,Manufacturing Tooling,112,MOR_SM_OTH,15403,Manufacturing Tooling - MOR_SM_OTH,50112,MOR_SM_OTH
+559,Punch Tooling,297.07,4,Manufacturing Tooling,112,MOR_SM_OTH,15403,Manufacturing Tooling - MOR_SM_OTH,50112,MOR_SM_OTH
+533,Tooling for Tube End Finishing Machine,1975.6,4,Manufacturing Tooling,113,MOR_SM_TUB,15404,Manufacturing Tooling - MOR_SM_TUB,50113,MOR_SM_TUB
+540,Tooling for Tub end finishing machine,560.0,4,Manufacturing Tooling,113,MOR_SM_TUB,15404,Manufacturing Tooling - MOR_SM_TUB,50113,MOR_SM_TUB
+489,Pipe Bending Tooling,652.94,4,Manufacturing Tooling,113,MOR_SM_TUB,15404,Manufacturing Tooling - MOR_SM_TUB,50113,MOR_SM_TUB
+484,Welder Arm,172.33,4,Manufacturing Tooling,321,VEL_AL_ALU,15406,Manufacturing Tooling - VEL_AL_ALU,50321,VEL_AL_ALU
+558,Leak Test tank Fittings x128 - Start up items,1248.34,4,Manufacturing Tooling,370,AL_AS,15407,Manufacturing Tooling - AL_AS,50370,AL_AS
+639,Leak Test Tank Fittings - 70 Eng Samples,1331.58,4,Manufacturing Tooling,370,AL_AS,15407,Manufacturing Tooling - AL_AS,50370,AL_AS
+525,2 Alum Molds 327-005 & 006,4750.83,4,Manufacturing Tooling,401,Molds,15408,Manufacturing Tooling - Molds,50321,VEL_AL_ALU
+493,2 Mold Cylinders - Ritter Technology LLC,336.83,4,Manufacturing Tooling,401,Molds,15408,Manufacturing Tooling - Molds,50321,VEL_AL_ALU
+490,2 Mold Cylinders,322.8,4,Manufacturing Tooling,401,Molds,15408,Manufacturing Tooling - Molds,50321,VEL_AL_ALU
+488,2 Mold Cylinders,322.8,4,Manufacturing Tooling,401,Molds,15408,Manufacturing Tooling - Molds,50321,VEL_AL_ALU
+482,2 Mold Cylinders,322.8,4,Manufacturing Tooling,401,Molds,15408,Manufacturing Tooling - Molds,50321,VEL_AL_ALU
+483,2 Mold Cylinders,322.8,4,Manufacturing Tooling,401,Molds,15408,Manufacturing Tooling - Molds,50321,VEL_AL_ALU
+29,Dell Computer Hardware,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+44,Computer Equipment,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+111,Cabinets,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+210,Color Laser Printer,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+212,Fax Machine,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+253,Engineering PC - Sam,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+254,Engineering PC- Jon,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+255,Dave R's Workstation,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+264,Laptops for Carla and Tyler,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+265,Computer Quality - Jackie,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+286,Computer - Dave Richardson,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+287,Computer - Brian Meier,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+288,Computer - Joe O'Block,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+289,Computer - Carla Home Log-In,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+325,Computers - Rhonda & Carla,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+326,Network Switch,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+328,Carla's Laptop at the Lake,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+329,5 Computers,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+332,Dave Richardson Computer,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+333,Engineering PC,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+334,Network Infrastructure Device,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+335,36 Memory Module for 3 Servers,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+337,Dell 3333 Laser Printer,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+338,Jen Passarelli Lap Top,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+352,File Server,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+353,Engineering PC,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+354,PDF Server,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+355,Buckner Computer,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+378,Network Device Switch,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+379,SAN server,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+382,Qtech pc,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+383,Milling Guy - New PC,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+384,PC for Robotic Welder,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+385,Dave Richardson PC - New Butler,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+386,Carla  PC - New Butler,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+387,New eng PC,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+388,JIM PYER - LAPTOP,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+389,LAPTOP - Brian Eng,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+431,Color Printer,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+432,Computer Pete Rossin -  Apple Ipad,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+433,"DJR's 18"" Tablet",0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+434,Jim Richardson Lakehouse Computer,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+437,DJR Computer - Moravia,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+442,DJR Computer New Butler,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+443,Computer Server Switch,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+475,6 New Wifi Devices,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+476,DJR Tablet,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+477,3 Network Switches - System Overhaul,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+478,Pyer Tablet,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+486,2 Dot Hill Server Controllers housed at RCP,0.0,5,Computers,906,IT,15500,Computers and Software,70600,Software
+172,Computer Software,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+173,MAS 500,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+174,Computer Software,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+175,Computer Software,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+178,Inventory Mgt Sys,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+179,Trumpf Punch Software,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+180,Hand Punch Software,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+181,MAS 500 P/Y Catch-Up,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+182,Computer Software,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+213,Bar Coding Software,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+214,Enhancements WA & Installation,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+215,Installation of Bar Coding Software & Training,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+258,Windchill Engineering Software,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+259,Backup and recovery software - Acronis Intl,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+294,VM Ware Software,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+295,Microsoft Software,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+296,Windows Server Software,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+297,SQL Server Software,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+340,Email Server Software,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+356,Labview Software - Audia,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+391,Software Scott 13 - AutoCAD LT 2012,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+394,SOFTWARE FOR PROGRAMMING TEST MACHINES,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+435,Software upgrade for Lathe,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+445,Computer Firewall,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+494,CRM Software,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+497,Windchill upgrade server software,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+517,Sophos Cloud Email Protection,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+518,Windchill CREO Tool Design Software,0.0,5,Computers,906,IT,15500,Computers and Software,70700,Computers and other hardware
+644,Odoo Implementation Hours,3541.67,5,Computers,906,IT,15501,Computers and Software - IT,75206,Expenses - IT
+571,5 Engineering Computers,2199.5,5,Computers,906,IT,15501,Computers and Software - IT,75206,Expenses - IT
+637,3 computers for inventory control,664.74,5,Computers,906,IT,15501,Computers and Software - IT,75206,Expenses - IT
+633,3 printers for non alum line,618.19,5,Computers,906,IT,15501,Computers and Software - IT,75206,Expenses - IT
+636,2 computers for inventory,409.95,5,Computers,906,IT,15501,Computers and Software - IT,75206,Expenses - IT
+634,4 computers for inventory process control,391.28,5,Computers,906,IT,15501,Computers and Software - IT,75206,Expenses - IT
+564,Surface Pro - Jen P,404.09,5,Computers,906,IT,15501,Computers and Software - IT,75206,Expenses - IT
+635,Amazon Computers new leak test tank,342.77,5,Computers,906,IT,15501,Computers and Software - IT,75206,Expenses - IT
+491,DJR Computer - Dell Venue 11 Pro,22.99,5,Computers,906,IT,15501,Computers and Software - IT,75206,Expenses - IT
+492,3 Computer Servers - Upgrades,335.68,5,Computers,906,IT,15501,Computers and Software - IT,75206,Expenses - IT
+496,Computer - Edney,95.95,5,Computers,906,IT,15501,Computers and Software - IT,75206,Expenses - IT
+505,Surface Pro Computer,403.24,5,Computers,906,IT,15501,Computers and Software - IT,75206,Expenses - IT
+487,Security Cameras - Moravia & New Butler,1339.55,6,Furniture & Fixtures,290,NBRoffice,15605,Furniture and Fixtures - NBRoffice,79290,NBRoffice
+543,Exit Signage & Install - 1902 New Butler,1305.95,6,Furniture & Fixtures,300,VEL,15603,Furniture and Fixtures - VEL,61300,VEL
+542,Office Furniture - 1902 New Butler,3329.13,6,Furniture & Fixtures,390,VELoffice,15606,Furniture and Fixtures - VELoffice,79390,VELoffic
+118,Bookcase,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+119,Office Furniture,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+120,Warehouse Shelving,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+121,Table Bins,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+122,Bookcase,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+123,Trade Show Booth,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+124,Lateral File Cabinets,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+125,Office Furniture & Desks,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+126,Safes,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+128,Office Furniture,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+129,Warehouse Shelving,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+130,Lateral File Cabinets,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+131,Window Head Rails,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+132,Warehouse Lockers,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+133,Office Furniture,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+134,Warehouse Shelving,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+135,Office Furniture,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+136,Warehouse shelving,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+137,Warehouse Shelving,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+138,Office Furniture,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+139,Desks,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+140,Cubicles,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+141,Warehouse Lighting,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+142,Warehouse Shelving,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+143,Office Furniture,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+144,Warehouse Shelving,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+145,Warehouse Bins,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+146,Warehouse Shelving,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+147,Warehouse Bins,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+148,Warehouse Shelving,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+149,Cubicles,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+150,Tables & Chairs - Carla's Office,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+151,Nicki's Desk & Work Space,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+357,General Furniture - New Butler,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+358,Executive Office Furniture (Dave & Carla) - New Butler,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+359,Electric Range - New Butler,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+360,Refrig - New Butler,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+361,2 TV's Conference room tv's  - New Butler,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+362,"SAMSUNG 60"" TV DJR OFFICE - MORAVIA",0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+363,"""AIR CONDITIONING SYSTEM PUT IN I.T. ROOM - MORAVIA",0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+419,2 60 inch TV's Dave & Carla - New Butler,0.0,6,Furniture & Fixtures,900,RCPsga,15600,Furniture and Fixtures,61900,ALL
+479,Leased Furniture for Florida Guest House,1407.49,6,Furniture & Fixtures,900,RCPsga,15607,Furniture and Fixtures - RCPsga,71500,Office and Misc Expenses - SGA
+480,Leased Furniture for Florida Guest House,1651.93,6,Furniture & Fixtures,900,RCPsga,15607,Furniture and Fixtures - RCPsga,71500,Office and Misc Expenses - SGA

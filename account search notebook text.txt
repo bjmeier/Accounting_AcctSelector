@@ -1,0 +1,32 @@
+import pandas as pd
+
+fNameCR = r'C:\Users\bmeie\Documents\GL accounts 09 2021-BJM.xlsx'
+fNameBJM = r'Q:\OdooMigration\Accounting\OdooCOAsum_6digit.xlsx'
+
+dfC = pd.read_excel(fNameCR,sheet_name='df')
+dfB = pd.read_excel(fNameBJM,sheet_name='OdooWithMASCOA')
+
+def getNotInOdoo(inpStatus):
+    dfC = pd.read_excel(fNameCR,sheet_name='df')
+    dfB = pd.read_excel(fNameBJM,sheet_name='OdooWithMASCOA')
+    dfM = dfC.copy()
+    dfM.drop(columns=['StatusCode','StatusDesc'],inplace=True)
+    reqdMASans = list(dfM[dfM['Status']==inpStatus].loc[:,'AN'].values)
+    dfM[dfM['Status']==1]
+    masAN1 = set(dfM[dfM['Status']==inpStatus].loc[:,'AN'])
+    masAN1 = {str(x) for x in masAN1}
+    print(f'Number of AN of status {inpStatus}: {len(masAN1)}')
+
+    masInOdoo = []
+    dfO = dfB.copy()[['GLAcctNo']]
+    dfO.dropna(inplace=True)
+    dfO.reset_index(inplace=True,drop=True)
+    for i in range(len(dfO)):
+        masInOdoo.extend(str(dfO.at[i,'GLAcctNo']).split())
+    masInOdoo = set(masInOdoo)
+    print(f'Number of MAS ANs listed in Odoo COA: {len(masInOdoo)}')
+    print(f'Number of MAS ANs of status {inpStatus} not accounted for: {len(masAN1 - masInOdoo)}')
+    return dfM[dfM['AN'].isin(masAN1-masInOdoo)].loc[:,['Type','AN','NoteB','Desc','YTD','NoteC']]
+
+761011000
+761011000
